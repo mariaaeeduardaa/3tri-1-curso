@@ -1,23 +1,57 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Filme',
+    'Qual é o nome do brinquedo astronauta em "Toy Story  ?',
+    ' Buzz Lightyear.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Filme',
+    'Em qual filme da Pixaros personagens são carros falantes?',
+    ' Carros.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Filme',
+    'Em qual filme o personagem Michael Corleone é interpretado por Al Pacino?',
+    'O Poderoso Chefão.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Filme',
+    'Em qual filme da Marvel Thor enfremta Hela, sua irmã?',
+    'Thor:Ragnarok.'
+)
+criaCartao(
+    'Famoso',
+    'De qual famoso é a musica que está em top 1 no Spotify?',
+    'Gustavo Lima'
+)
+
+criaCartao(
+    'Filme',
+    'Quem é o diretor do filme "O Poderoso Chefão?',
+    ' Francis Ford Coppola.'
+)
+
+criaCartao(
+    'Filme',
+    'Em qual ano foi lançado o primeiro filme da série 'Star Wars?',
+    '1977 .'
+)
+
+criaCartao(
+    'Famoso ',
+    'Qual foi ojogador preso no Brasil em 20 de março de 2020?',
+    'Ronaldinho Gaúcho.'
+)
+criaCartao(
+    'Filme',
+    'Qual filme ganhou o Oscar de melhor filme em 2020?',
+    'Parasita .'
+)
+
+criaCartao(
+    'Filme ',
+    'Qual é o ator protagoniza o filme Missão Impossível?',
+    ' Tom Cruise.'
 )
